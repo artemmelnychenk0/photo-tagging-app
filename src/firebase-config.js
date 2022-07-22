@@ -3,12 +3,12 @@ import { getFirestore } from '@firebase/firestore'
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCdN2dCF8LG6XvnrTWSp9vEtyx_3Izy9Io",
-    authDomain: "photo-tagging-app-14395.firebaseapp.com",
-    projectId: "photo-tagging-app-14395",
-    storageBucket: "photo-tagging-app-14395.appspot.com",
-    messagingSenderId: "627188243621",
-    appId: "1:627188243621:web:c00077ee0ae34c4799014c"
+    apiKey: "AIzaSyCKkBf0k9pDCAboW2qB3EoBZ08aCzRgjSM",
+    authDomain: "photo-tagging-app-fb2ab.firebaseapp.com",
+    projectId: "photo-tagging-app-fb2ab",
+    storageBucket: "photo-tagging-app-fb2ab.appspot.com",
+    messagingSenderId: "269620160084",
+    appId: "1:269620160084:web:d793c9c138e7e69be72fc1"
 };
 
 // Initialize Firebase
