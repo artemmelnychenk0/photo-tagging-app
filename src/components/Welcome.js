@@ -16,15 +16,15 @@ const Welcome = ({ startGame }) => {
                         You will be timed and your score will be recorded, so move fast!
                     </div>
                     <div className="scoreboard">
-                        <div className='kratoss'>
+                        <div className='kratoswelcome'>
                             <img src={kratos} alt='kratos'></img>
                             <h3>Kratos</h3>
                         </div>
-                        <div className='kratoss'>
+                        <div className='kratoswelcome'>
                             <img src={nathan} alt='nathan'></img>
                             <h3>Nathan</h3>
                         </div>
-                        <div className='arthur'>
+                        <div className='arthurwelcome'>
                             <img src={arthur} alt='kratos'></img>
                             <h3>Arthur</h3>
                         </div>
