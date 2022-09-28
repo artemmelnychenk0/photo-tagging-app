@@ -32,8 +32,8 @@ const Data = ({ playerChoise, removeChar, isGameOver }) => {
 
     const updateChoise = () => {
         setChosen({
-            x: Math.round(chosenCoords.x / 100),
-            y: Math.round(chosenCoords.y / 100),
+            x: Math.round(chosenCoords.x / 10),
+            y: Math.round(chosenCoords.y / 10),
             char: chosenCoords.char
         })
     }
